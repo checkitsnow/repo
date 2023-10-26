@@ -18,7 +18,7 @@ class config {
 
     // paths
     'root' => '',
-    'start_path' => true,
+//    'start_path' => true,
 
     // login
     'username' => '',
